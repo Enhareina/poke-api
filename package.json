@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Enhareina/poke-api/issues"
   },
-  "homepage": "https://github.com/Enhareina/poke-api#readme"
+  "homepage": "https://github.com/Enhareina/poke-api#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
